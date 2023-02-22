@@ -4,7 +4,7 @@
  * main - check the code
  * print alphabet in lowercase with putchar
  * Return: Always 0.
- * /
+ */
 
 void print_alphabet(void)
 {
