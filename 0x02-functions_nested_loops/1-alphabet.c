@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- * print alphabet in lowercase with putchar
+ * description: print_alphabet in lowercase with putchar
  * Return: Always 0.
  */
 
