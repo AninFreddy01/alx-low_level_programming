@@ -9,8 +9,7 @@ int add(int, int);
 	int sum;
 	int a, b;
 
-	sum = a + b;
+	sum = add(a + b);
 
-	return sum;
+	return (sum);
 }
-add(18,6);
